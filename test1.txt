@@ -3,3 +3,6 @@ two feature-1
 three feature-1
 six feature-1
 seven feature-1
+four feature-2
+five feature-2
+>>>>>>> feature-2
