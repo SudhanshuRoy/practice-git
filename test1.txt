@@ -6,3 +6,5 @@ seven feature-1
 four feature-2
 five feature-2
 ten main
+seven feature
+eight feature
